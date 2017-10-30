@@ -27,6 +27,6 @@ https://youtu.be/OpvWQBrZ4ig
 
 ### Authors
 * Emily Bui
-* David Poss
-* Anthony Nguyen
-* Sae Hun Kim
+* David Poss https://github.com/davidposs
+* Anthony Nguyen https://github.com/anthonynguyen194
+* Sae Hun Kim https://github.com/kimsaehun
